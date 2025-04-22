@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gurnam7541
+- 💡 I built DeepData — a powerful desktop tool (available on Microsoft Store) that lets developers, analysts, and engineers connect and query multiple databases (MySQL, MSSQL, MongoDB) locally with zero data sent to the cloud. https://apps.microsoft.com/store/detail/9NKTLBFHRCHW?cid=DevShareMCLPCS
 - 👀 I’m interested in leading complex web development projects, building scalable solutions, and driving innovation.
 - 🌱 I’m currently enhancing my skills in DevOps and exploring advanced cloud computing techniques.
 - 💞️ I’m looking to collaborate on challenging projects where I can leverage my 10+ years of experience as a Tech Lead, delivering high-quality solutions.
